@@ -7,4 +7,4 @@ There is one Maple worksheet file and two Mathematica notebook files. The pdf pr
 
 **References:**
 
-[1] Gergely Röst, AmirHosein Sadeghimanesh, Two connected populations with the Allee effect, 2021.
+[1] Gergely Röst, AmirHosein Sadeghimanesh, Two connected populations with Allee effect, 2021.
